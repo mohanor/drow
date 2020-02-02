@@ -28,7 +28,6 @@ window.addEventListener('load', ()=>{
         link.href = document.getElementById('canvas').toDataURL();
         link.download = "canvas.png";
         link.click();
-        console.log(link);
         document.body.removeChild(link);
     });
 
