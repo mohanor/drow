@@ -1,0 +1,45 @@
+body
+{
+    background-color: #615d5d2e;
+    display: flex;
+}
+#canvas
+{
+    background-color: white;
+}
+.div
+{
+    width: 90px;
+    padding-left: 40px;
+}
+.color
+{
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+#down
+{
+    height: 39px;
+    background: #38c172;
+    color: white;
+    border: none;
+    padding: 9px;
+    width: 100px;
+    border-radius: 6px;
+    font-size: 15px;
+}
+.div-size
+{
+    width: 46px;
+}
+.size
+{
+    border: none;
+    padding: 5px;
+    width: 40px;
+    margin-top: 4px;
+    cursor: pointer;
+    background-color: #2196F3;
+    color: white;
+}
